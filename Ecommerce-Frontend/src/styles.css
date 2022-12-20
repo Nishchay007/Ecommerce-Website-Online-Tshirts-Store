@@ -1,0 +1,25 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  /* background: #343a40; */
+  background: #101426;
+}
+.bg1 {
+  background-color: #211c36;
+}
+
+.bg2 {
+  background-color: #101426;
+}
+
+.tcol {
+  color: #211c36;
+}
+
+.bg3 {
+  background-color: #276ee9;
+}
